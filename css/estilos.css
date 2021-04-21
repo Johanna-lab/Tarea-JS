@@ -1,0 +1,173 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+text-align: center;
+
+}
+
+body{
+background-color: black;
+
+
+}
+
+.header{
+
+color:#fff;
+font-size:437.5%;
+font-family: "antonio";
+text-align: center;
+text-shadow:
+0 0 5px rgb(255, 94, 0),
+0 0 20px rgb(255, 94, 0),
+0 0 50px  rgb(255, 94, 0);
+}
+
+
+#section{
+
+width:73%;
+color: white;
+float: left;
+word-spacing: 125%;
+}
+
+ #aside{
+
+width: 25%;
+height: 1500px;
+color:lavender;
+background:  rgb(70, 38, 49);
+float: right;
+margin: 15px;
+
+
+
+}
+
+
+.img1{
+
+width: 100%;
+padding: 15px;
+}
+
+.img2,.img3{
+
+width: 520px;
+height: auto;
+display: initial;
+margin-right: 10px;
+}
+
+.img2{
+
+float: right;
+
+}
+
+
+h1{
+
+    font-size:60px ;
+    font-family: "antonio";
+   
+}
+
+h2{
+
+    font-size:50px ;
+    font-family: "antonio";
+   
+    color: white;
+    width: 520px;
+
+}
+
+p{
+
+color: white;
+font-size: 30px;
+width: 1070px;
+height: auto;
+text-align:left;
+margin-left: 20px;
+font-family: "nanum gothic";
+}
+
+
+.paine{
+
+width: 90%;
+margin-top: 15px;
+
+
+}
+h3{
+
+font-size: 25px;
+font-family: "antonio";
+
+
+}
+
+#formulario
+{
+
+    width: 100%;
+    padding-top: 200px;
+
+
+
+}
+
+
+.input{
+
+
+
+    width: 300px;
+    padding: 20px;
+    margin-bottom: 12px;
+    margin-right: 10px;
+    border-radius: 5px;
+    font-family: "antonio";
+    font-size: 30px;
+    border-color:black;
+    
+    
+}
+
+
+.submit{
+width: 300px;
+text-align: center;
+padding: 15px;
+color:gray;
+background-color: aquamarine;
+border-radius: 10px;
+font-family: "antonio";
+font-size: 30px;
+margin-right: 10px;
+
+
+
+}
+
+
+h4{
+
+font-family: "antonio";
+font-size: 50px;
+word-spacing: 1000px;
+margin-bottom: 10px;
+
+}
+
+#div{
+
+width: 100%;
+
+
+}
